@@ -1,1 +1,1 @@
-An Interactive slide
+An Interactive slider
