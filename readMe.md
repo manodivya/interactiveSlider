@@ -1,1 +1,1 @@
-An Interactive slider
+An Interactive slider using jQuery
